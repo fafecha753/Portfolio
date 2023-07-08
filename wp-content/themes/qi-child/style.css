@@ -8,6 +8,10 @@ Version: 1.0
 Requires PHP: 5.6
 Tags: portfolio
 */
+
+
+
+/*Cuando el cursor pasa por cualquier titulo se aumenta el brillo del elemento*/
 h1, h2, h3, h4, h5 {
   transition: 0.5s;
 }
