@@ -1,0 +1,17 @@
+/*
+Theme Name: Qi-child
+Description: A qi-child for a personal proyect
+Author: Fabian Fernandez Chaves
+Template: qi
+Text Domain: qi
+Version: 1.0
+Requires PHP: 5.6
+Tags: portfolio
+*/
+h1, h2, h3, h4, h5 {
+  transition: 0.5s;
+}
+
+h1:hover, h2:hover, h3:hover, h4:hover, h5:hover {
+  filter: brightness(150%);
+}
